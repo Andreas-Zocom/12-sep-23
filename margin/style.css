@@ -1,0 +1,11 @@
+.item{
+    width: 10rem;
+    height: auto;
+    background-color: #006AA7;
+    border: solid 1rem black;
+    display: inline-block;
+    padding: 1rem;
+    margin-bottom: 0.5rem;
+    }
+   
+   
